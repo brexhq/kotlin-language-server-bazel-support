@@ -1,5 +1,12 @@
 # Kotlin Language Server with Bazel Support
 
+## ⚠️ PROJECT ARCHIVED
+This project is no longer maintained and has been archived. The maintainer is unable to dedicate time to addressing issues and ongoing maintenance.
+
+For Kotlin language support, we recommend switching to the official [kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) from JetBrains. Note that Bazel support in `kotlin-lsp` is still TBD at the time of archival.
+
+---
+
 This is a fork of [kotlin-language-server](https://github.com/fwcd/kotlin-language-server) and [kotlin-debug-adapter](https://github.com/fwcd/kotlin-debug-adapter) with Bazel support added to it. It works in tandem with a [VSCode extension](https://github.com/smocherla-brex/bazel-kotlin-vscode-extension).
 
 
